@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "sanny",
+        "gander": "male",
+        "contact": "01995416425",
+        "address": "munshiganj",
+        "photoUrl": "https://i.ibb.co/8zLQYTS/photo-1633332755192-727a05c4013d.jpg"
+    },
+    {
+        "id": "2",
+        "name": "rimel",
+        "gander": "male",
+        "contact": "01995416425",
+        "address": "munshiganj",
+        "photoUrl": "https://i.ibb.co/8zLQYTS/photo-1633332755192-727a05c4013d.jpg"
+    },
+    {
+        "id": "3",
+        "name": "hasan",
+        "gander": "male",
+        "contact": "01995416425",
+        "address": "munshiganj",
+        "photoUrl": "https://i.ibb.co/8zLQYTS/photo-1633332755192-727a05c4013d.jpg"
+    },
+    {
+        "id": "4",
+        "name": "hamid",
+        "gander": "male",
+        "contact": "01995416425",
+        "address": "munshiganj",
+        "photoUrl": "https://i.ibb.co/8zLQYTS/photo-1633332755192-727a05c4013d.jpg"
+    }
+]
